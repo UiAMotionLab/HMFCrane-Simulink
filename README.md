@@ -1,4 +1,4 @@
-# HMF Crane MBS Simulink Simulink
+# HMF Crane MBS Simulink Simulator
 
 This repo includes the MATLAB-Simulink MBS Simulator model of the HMF Crane located in the Norwegian Motion Laboratory ([UiA Motion Lab](https://www.uia.no/motionlab)).
 
